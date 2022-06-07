@@ -28,7 +28,7 @@ key: page-about
 
 祝贺你找到这个博客！
 
-
+我是一名前社科学生，前互联网打工人，以及业余女足队员。（更多关于女足队的故事，请阅读[《*北京多了一支业余女足队*》](https://mp.weixin.qq.com/s/faXifB7fkEhM6G8YYkWXtw)），或关注 [@haruwinofficial](https://www.instagram.com/haruwinofficial/)。欢迎在微店中搜索“haruwin”同名店铺给我们打钱。）
 
 ## 标签
 
