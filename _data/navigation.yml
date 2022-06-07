@@ -6,7 +6,7 @@ header:
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-      zh-Hans : &ZH_HANS  历史文章
+      zh-Hans : &ZH_HANS  全部
       zh      : *ZH_HANS
       zh-CN   : *ZH_HANS
       zh-SG   : *ZH_HANS
@@ -56,11 +56,11 @@ header:
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-      zh-Hans : &ZH_HANS  Find Me
+      zh-Hans : &ZH_HANS  Contact Me
       zh      : *ZH_HANS
       zh-CN   : *ZH_HANS
       zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  Find Me
+      zh-Hant : &ZH_HANT  Contact Me
       zh-TW   : *ZH_HANT
       zh-HK   : *ZH_HANT
       ko      : &KO       
