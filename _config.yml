@@ -20,9 +20,9 @@ text_skin: "forest" # "default" (default), "dark", "forest", "ocean", "chocolate
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : 时空伴随机
+title   : 时空伴随机器人
 description: > # this means to ignore newlines until "Language & timezone"
-  欢迎来到我的博客。我是一名前社科学生，前互联网打工人，以及业余女足队员。
+  我是一名前社科学生，前互联网打工人，以及业余女足队员。
 
 ## => Language and Timezone
 ##############################
