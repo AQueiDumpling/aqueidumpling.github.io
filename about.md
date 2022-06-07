@@ -34,8 +34,6 @@ key: page-about
 
 ## 标签
 
-- [#随笔](https://aqueidumpling.github.io/archive.html?tag=%E9%9A%8F%E7%AC%94)
-
 - [#读书笔记](https://aqueidumpling.github.io/archive.html?tag=%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0)
   
   - 一些散碎的读书、评论和小文章，写得八股，读得轻松。

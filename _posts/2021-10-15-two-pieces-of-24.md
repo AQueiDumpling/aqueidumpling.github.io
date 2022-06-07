@@ -2,7 +2,7 @@
 title: 两则本命年小作文
 date: 2021-10-15T09:00:00-10:00
 tags:
-  - 随笔
+  - 年终总结
 toc: true
 toc_sticky: false
 excerpt: 不要害怕老之将至，你老了，他也会老的。
