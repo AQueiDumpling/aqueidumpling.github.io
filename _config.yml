@@ -22,7 +22,7 @@ url     : # the base hostname & protocol for your site e.g. https://www.someone.
 baseurl : # does not include hostname
 title   : 时空伴随机
 description: > # this means to ignore newlines until "Language & timezone"
-  欢迎来到我的博客。我是一个心理学研究者。我在这里记录我的专业日常以及生活感悟。
+  欢迎来到我的博客。我是一名前社科学生，前互联网打工人，以及业余女足队员。
 
 ## => Language and Timezone
 ##############################
