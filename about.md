@@ -38,14 +38,14 @@ key: page-about
   
   - 一些散碎的读书、评论和小文章，写得八股，读得轻松。
 
-- [无业生活](https://aqueidumpling.github.io/archive.html?tag=%E6%97%A0%E4%B8%9A%E7%94%9F%E6%B4%BB)
+- [#无业生活](https://aqueidumpling.github.io/archive.html?tag=%E6%97%A0%E4%B8%9A%E7%94%9F%E6%B4%BB)
   
   - 希望早日充实这一part。
 
--  [年终总结](https://aqueidumpling.github.io/archive.html?tag=%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93)
+-  [#年终总结](https://aqueidumpling.github.io/archive.html?tag=%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93)
   
   - 没啥好解释的。
 
-# 致谢
+## 致谢
 
-<div>本网站的框架由<a href="https://tianqi.name/jekyll-TeXt-theme/" title="TeXtTheme">TeXtTheme</a>提供。</div>
+<div>本网站的框架由 <a href="https://tianqi.name/jekyll-TeXt-theme/" title="TeXtTheme">TeXtTheme</a> 提供。</div>
