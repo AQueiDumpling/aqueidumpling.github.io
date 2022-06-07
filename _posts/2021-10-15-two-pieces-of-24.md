@@ -5,6 +5,7 @@ tags:
   - 随笔
 toc: true
 toc_sticky: false
+excerpt: 不要害怕老之将至，你老了，他也会老的。
 ---
 
 
