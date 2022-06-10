@@ -20,7 +20,7 @@ excerpt: 小白必看（误）
 1. 激励我自己建静态博客的帖子，讲得很详细：
 [编程小白制作个人网站（超简单！）](https://womenoverseas.com/t/topic/17528/9)
 
-手把手学会移植别人的 Jekyll 主题，这个博客也是同样方法实现的。
+   手把手学会移植别人的 Jekyll 主题，这个博客也是同样方法实现的。
 
 2. 一个教你如何更从 0 到 1 地用 github pages 建个人网站的指南，需要（有耐心学习）一些 Git 和 html 的基本知识：
 [Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/)
