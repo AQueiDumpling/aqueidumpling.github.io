@@ -25,7 +25,7 @@ excerpt: 小白必看（误）
 2. 一个教你如何更从 0 到 1 地用 github pages 建个人网站的指南，需要（有耐心学习）一些 Git 和 html 的基本知识：
 [Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/)
 
-3. 一些 markdown 写作的工具
+3. 一些帮助实现 markdown 舒适写作的工具
 
    1. [将 VS Code 打造成一个体验舒适的 Markdown 编辑器](https://blog.bugimg.com/works/vscode-to-markdown-editor.html)
    
